@@ -3,7 +3,7 @@
  *
  *	Copyright 2016 Andreas Amann
  *
- * Modified by Alan Anderson (2017) to use the API from the TED5000 (The energy Detective).
+ * Modified by Alan Anderson (2017) to use the API from the TED5000 (The Energy Detective).
  *
  *	Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *	in compliance with the License. You may obtain a copy of the License at:
